@@ -17,5 +17,5 @@ AFL Solutions SRL is an Italian LLC founded in 2021 by [Alessandro Afloarei](htt
 
 ## Contact
 
-- **Website:** [afl-solutions.com](https://aflsolutions.co)
-- **Email:** [hello@afl-solutions.com](mailto:alessandro.afloarei@aflsolutions.it)
+- **Website:** [aflsolutions.co](https://aflsolutions.co)
+- **Email:** [alessandro.afloarei@aflsolutions.it](mailto:alessandro.afloarei@aflsolutions.it)
