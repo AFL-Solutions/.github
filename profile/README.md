@@ -1,21 +1,28 @@
-# AFL Solutions
+  # AFL Solutions
 
-**We build AI that works in production.**
+  **We build tools for developers and teams.**
 
-AFL Solutions is an AI integration consultancy that designs and ships production-grade AI systems for startups and mid-market companies. RAG pipelines, agent systems, LLM integrations, and AI strategy — built by engineers with 10+ years of experience across fintech, space, and government sectors.
+  AFL Solutions is a software studio based in Europe shipping developer tools, AI infrastructure, and SaaS products.
 
-## What We Do
+  ## Products
 
-- **AI Product Development** — RAG pipelines, vector search, LLM integration, embeddings
-- **Agent Systems** — Multi-agent orchestration, MCP servers, autonomous workflows
-- **Intelligent Automation** — Workflow AI, document processing, data pipelines
-- **AI Strategy & Architecture** — Technical audits, architecture design, model selection, cost optimization
+  - **[Earendel Platform](https://earendelplatform.com)** — Conference management platform for academic institutions. *Live*
+  - **[Calendar0](https://calendar0.app)** — AI-powered macOS menubar calendar with natural language scheduling. *Live*
+  - **[ShadowGit](https://shadowgit.com)** — Architecture governance with real-time UML generation and AI guardrails. *Beta*
 
-## About
+  ## Open Source
 
-AFL Solutions SRL is an Italian LLC founded in 2021 by [Alessandro Afloarei](https://alessandroafloarei.it), a full-stack engineer with 10+ years of experience building production systems at scale — including backend engineering at Pleo (fintech, invoice processing), ESA Galileo ground control systems, and government security systems at the Portuguese Mint.
+  - **[SemanticTest](https://www.semantictest.dev/)** — Pipeline-based testing framework for AI systems.
+  [GitHub](https://github.com/aflsolutions/semantic-test)
+  - **[ShadowGit MCP](https://shadowgit.com)** — MCP server for AI-assisted Git workflows.
+  [GitHub](https://github.com/aflsolutions/shadowgit-mcp)
 
-## Contact
+  ## About
 
-- **Website:** [aflsolutions.co](https://aflsolutions.co)
-- **Email:** [alessandro.afloarei@aflsolutions.it](mailto:alessandro.afloarei@aflsolutions.it)
+  AFL Solutions was founded in 2021 by [Alessandro Afloarei](https://alessandroafloarei.com), an engineer with 10+ years of
+  experience shipping production systems across fintech, space, and government sectors.
+
+  ## Links
+
+  - **Website:** [aflsolutions.co](https://aflsolutions.co)
+  - **GitHub:** [github.com/aflsolutions](https://github.com/aflsolutions)
