@@ -1,63 +1,21 @@
-# 🔐 Elara App — Secure Your Code Before It Ships
+# AFL Solutions
 
-Welcome to the official GitHub profile of **Elara App** — a powerful vulnerability scanner that combines multiple scanning engines and AI to give you comprehensive, actionable insights into your code's security.
+**We build AI that works in production.**
 
-## 🚀 What is Elara?
+AFL Solutions is an AI integration consultancy that designs and ships production-grade AI systems for startups and mid-market companies. RAG pipelines, agent systems, LLM integrations, and AI strategy — built by engineers with 10+ years of experience across fintech, space, and government sectors.
 
-Elara App helps developers and teams:
-- Detect vulnerabilities in source code using multiple scanning tools
-- Understand security risks with AI-generated summaries
-- Get actionable recommendations to fix issues
+## What We Do
 
-Try it out: [https://elara-app.ai](https://elara-app.ai)
+- **AI Product Development** — RAG pipelines, vector search, LLM integration, embeddings
+- **Agent Systems** — Multi-agent orchestration, MCP servers, autonomous workflows
+- **Intelligent Automation** — Workflow AI, document processing, data pipelines
+- **AI Strategy & Architecture** — Technical audits, architecture design, model selection, cost optimization
 
----
+## About
 
-## 🧠 Key Features
-- 🔍 Multi-engine code vulnerability scanning
-- 🤖 AI-powered summaries and fix suggestions
-- 📊 Clean, developer-friendly dashboard
-- 🎯 Free and paid plans to fit solo devs to enterprises
+AFL Solutions SRL is an Italian LLC founded in 2021 by [Alessandro Afloarei](https://alessandroafloarei.it), a full-stack engineer with 10+ years of experience building production systems at scale — including backend engineering at Pleo (fintech, invoice processing), ESA Galileo ground control systems, and government security systems at the Portuguese Mint.
 
----
+## Contact
 
-## 📦 Plans
-
-| Plan        | Scans Included | Ideal For          |
-|-------------|----------------|--------------------|
-| Free        | 5/month        | Individual devs    |
-| Pro         | 200/month      | Growing teams      |
-| Enterprise  | 10,000/month   | Large orgs & apps  |
-
----
-
-## 📚 Docs & Support
-
-- 🛟 Support: support@elara-app.ai
-- 📄 [Privacy Policy](https://elara-app.ai/privacy-policy)
-- 📄 [Terms of Service](https://elara-app.ai/tos)
-
----
-
-## 🛡️ Why Elara?
-
-> “Most breaches happen because of avoidable, known vulnerabilities. Elara catches them before they reach production.”
-
----
-
-## 💼 Company
-
-Elara App is built by developers, for developers.  
-Secure by design. Powered by AI.
-
-📫 Contact: support@elara-app.ai
-
----
-
-## 🤝 Contributing
-
-Elara is a closed-source SaaS product. At the moment, we are not accepting external contributions — but feel free to open issues, share feedback, or reach out if you’d like to collaborate.
-
----
-
-© Elara App — Built with security in mind.
+- **Website:** [afl-solutions.com](https://aflsolutions.co)
+- **Email:** [hello@afl-solutions.com](mailto:alessandro.afloarei@aflsolutions.it)
